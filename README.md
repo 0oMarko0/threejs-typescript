@@ -1,0 +1,1 @@
+To see if your browser support webgl -> http://get.webgl.org/
